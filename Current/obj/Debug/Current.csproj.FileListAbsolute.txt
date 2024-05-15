@@ -1,0 +1,6 @@
+/Users/user/C#/HomeWork/Current/bin/Debug/Current.exe
+/Users/user/C#/HomeWork/Current/bin/Debug/Current.pdb
+/Users/user/C#/HomeWork/Current/obj/Debug/Current.csproj.AssemblyReference.cache
+/Users/user/C#/HomeWork/Current/obj/Debug/Current.csproj.CoreCompileInputs.cache
+/Users/user/C#/HomeWork/Current/obj/Debug/Current.exe
+/Users/user/C#/HomeWork/Current/obj/Debug/Current.pdb

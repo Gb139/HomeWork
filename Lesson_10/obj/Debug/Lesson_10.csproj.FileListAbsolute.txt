@@ -1,0 +1,6 @@
+/Users/user/C#/HomeWork/Lesson_10/bin/Debug/Lesson_10.exe
+/Users/user/C#/HomeWork/Lesson_10/bin/Debug/Lesson_10.pdb
+/Users/user/C#/HomeWork/Lesson_10/obj/Debug/Lesson_10.csproj.AssemblyReference.cache
+/Users/user/C#/HomeWork/Lesson_10/obj/Debug/Lesson_10.csproj.CoreCompileInputs.cache
+/Users/user/C#/HomeWork/Lesson_10/obj/Debug/Lesson_10.exe
+/Users/user/C#/HomeWork/Lesson_10/obj/Debug/Lesson_10.pdb

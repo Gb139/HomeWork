@@ -1,0 +1,11 @@
+/Users/user/C#/HomeWork/YearTest/bin/Debug/YearTest.dll
+/Users/user/C#/HomeWork/YearTest/bin/Debug/YearTest.pdb
+/Users/user/C#/HomeWork/YearTest/bin/Debug/Current.exe
+/Users/user/C#/HomeWork/YearTest/bin/Debug/nunit.framework.dll
+/Users/user/C#/HomeWork/YearTest/bin/Debug/Current.pdb
+/Users/user/C#/HomeWork/YearTest/bin/Debug/nunit.framework.xml
+/Users/user/C#/HomeWork/YearTest/obj/Debug/YearTest.csproj.AssemblyReference.cache
+/Users/user/C#/HomeWork/YearTest/obj/Debug/YearTest.csproj.CoreCompileInputs.cache
+/Users/user/C#/HomeWork/YearTest/obj/Debug/YearTest.csproj.CopyComplete
+/Users/user/C#/HomeWork/YearTest/obj/Debug/YearTest.dll
+/Users/user/C#/HomeWork/YearTest/obj/Debug/YearTest.pdb
