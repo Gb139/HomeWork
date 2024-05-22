@@ -1,24 +1,27 @@
 ﻿using System;
 
-namespace Lesson_12
+namespace Lesson_13
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            int[] arr = { 12, -12, -2, 1, -53, 32, 135, 23 };
-            var (positiv, negativ) = PositivNegativ(arr);
+            int[] numbers = new int[5]{-20, 1, 51, -85, -9};
+            var (positiv, negativ) = PositivNegativ(numbers);
             Console.WriteLine($"Положительных {positiv}, Отрицательных {negativ}");
+            
             int[] fibo = Fibonachi(10);
             Console.Write("Числа Фибоначи : ");
             foreach (var i in fibo)
             {
                 Console.Write($"{i} ");
             }
-            SortArr(arr);
+
+            int[] values = new int[5] { 6, 31, 1, 45, 54 };
+            SortArr(values);
             Console.WriteLine();
             Console.Write("Отсортированный массив : ");
-            foreach (var i in arr)
+            foreach (var i in values)
             {
                 Console.Write($"{i} ");    
             }
